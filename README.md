@@ -67,16 +67,8 @@ I wield a powerful and diverse set of tools to craft full-stack solutions.
 
 *Real-time metrics on my open-source contributions and activity.*
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=kandan03&show_icons=true&locale=en&theme=radical&hide_border=true" alt="Somaskandan's GitHub Stats" />
-    </td>
-    <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kandan03&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Somaskandan's Top Languages" />
-    </td>
-  </tr>
-</table>
+
 
 ---
 
