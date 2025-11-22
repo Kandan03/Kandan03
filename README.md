@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://skillicons.dev/icons?i=react" alt="React Icon" width="30"/> 
-  Somaskandan: The Full Stack Architect
+ The Full Stack Architect
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js Icon" width="30"/>
 </h1>
 <h3 align="center">Building robust, scalable, and beautiful web experiences.</h3>
